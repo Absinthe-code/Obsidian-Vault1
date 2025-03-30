@@ -1,0 +1,3 @@
+- \ is the escape characters
+- \`\`\`NameOfTheLanguage for code snippets
+- shift+ tab changes the indentation

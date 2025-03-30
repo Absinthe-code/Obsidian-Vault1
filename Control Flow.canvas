@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"56b16a18966f21dc","x":-100,"y":-440,"width":250,"height":400,"type":"text","text":"AssignOpenTickets:\n- Total Orders\n- Order Comment\n- Order Symbol\n- Order TP\n- Order Comment\n\t- \\_Symbol\n\t- \\_Period\n- Order Ticket\n- Order Profit\n- Order Type\n\t- BUY\n\t- SELL"},
+		{"id":"b6a9dbaca29c66ff","x":-100,"y":40,"width":250,"height":140,"type":"text","text":"ask:\n- \\_Digits\n- \\_Symbol"},
+		{"id":"7577a82738e07c67","x":-100,"y":240,"width":250,"height":140,"type":"text","text":"bid:\n- \\_Digits\n- \\_Symbol"},
+		{"id":"86fd151730b8f5bb","x":-100,"y":460,"width":250,"height":180,"type":"text","text":"updateTickets:\n- "}
+	],
+	"edges":[
+		{"id":"f0a311bd8b14b7e8","fromNode":"56b16a18966f21dc","fromSide":"bottom","toNode":"b6a9dbaca29c66ff","toSide":"top"},
+		{"id":"bdc1a1a13f85ac2d","fromNode":"b6a9dbaca29c66ff","fromSide":"bottom","toNode":"7577a82738e07c67","toSide":"top"},
+		{"id":"07052af4440f21fb","fromNode":"7577a82738e07c67","fromSide":"bottom","toNode":"86fd151730b8f5bb","toSide":"top"}
+	]
+}

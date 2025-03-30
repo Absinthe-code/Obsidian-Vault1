@@ -1,0 +1,312 @@
+{
+  "main": {
+    "id": "82ed6bb295314b33",
+    "type": "split",
+    "children": [
+      {
+        "id": "43e9aa332d4976c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "502c36b87c6eb203",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Italiano/HTML & CSS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HTML & CSS"
+            }
+          },
+          {
+            "id": "a5950af02f941191",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Italiano/HTML & CSS - Completo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HTML & CSS - Completo"
+            }
+          },
+          {
+            "id": "09323813518cdc69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Italiano/HTML & CSS - Completo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HTML & CSS - Completo"
+            }
+          },
+          {
+            "id": "a4e427af24c3a1dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Italiano/HTML & CSS - Completo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HTML & CSS - Completo"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "8d1eb20ff8c6d7e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fed8675f7b7bd7ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Italiano/HTML/Tabella HTML.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tabella HTML"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd0b22ea7dbe1ff9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a20e3b776a969c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a33becffef2fbbc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
+            }
+          },
+          {
+            "id": "ca2d919845a463a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "af740fb53cd34b34",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f7feddcf8c261d58",
+    "type": "split",
+    "children": [
+      {
+        "id": "e238ebbd2a924b3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c47a8a1a816bd788",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Italiano/Git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Git"
+            }
+          },
+          {
+            "id": "8d7edae30b4e4d53",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0cda75a2a607e77a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1461f5620dfeef15",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Italiano/HTML/Tabella HTML.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura di Tabella HTML"
+            }
+          },
+          {
+            "id": "edfa1fd0075021a5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "4c094aab6e330a9d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "47aecb4385c8d508",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 317.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "markdown-importer:Apri importazione Markdown": false,
+      "audio-recorder:Avvia/ferma registrazione": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "fed8675f7b7bd7ab",
+  "lastOpenFiles": [
+    "Italiano/HTML/Tabella HTML.md",
+    "Italiano/HTML & CSS - Completo.md",
+    "Italiano/HTML & CSS.md",
+    "Italiano/HTML/SEO.md",
+    "Italiano/HTML/rel.md",
+    "Italiano/HTML/referrerpolicy.md",
+    "Italiano/HTML/Codici di Lingua ISO.md",
+    "Italiano/HTML/().md",
+    "Italiano/HTML/href.md",
+    "Italiano/HTML/hreflang.md",
+    "Italiano/HTML/media.md",
+    "Italiano/HTML/type.md",
+    "Italiano/HTML/target.md",
+    "Italiano/HTML/download.md",
+    "Clippings/W3Schools.com.md",
+    "Clippings",
+    "Italiano/HTML/Senza nome.md",
+    "Italiano/HTML",
+    "Italiano/HTML/query string.md",
+    "Italiano/Collegamento Ipertestuale.md",
+    "Italiano/Collegamento.md",
+    "Italiano/Modale.md",
+    "Italiano/JavaScript - BroCode.md",
+    "Italiano/GitHub.md",
+    "Italiano/Git.md",
+    "Italiano/Git-atlassian.com.md",
+    "Italiano/Comandi Bash.md",
+    "Italiano/Basi di Terminale.md",
+    "Dependencies.canvas",
+    "Control Flow.canvas",
+    "Senza nome.canvas",
+    "Italiano/attachments/Recording 20250328123800.m4a",
+    "Programmazione ISO/attachments/Pasted image 20250218225422.png",
+    "Programmazione ISO/attachments/Pasted image 20250218221356.png",
+    "Programmazione ISO/attachments/Pasted image 20250218221251.png",
+    "Programmazione ISO/attachments/Pasted image 20250218221025.png",
+    "Programmazione ISO/attachments/Pasted image 20250218220957.png",
+    "Programmazione ISO/attachments/Pasted image 20250218220841.png",
+    "Programmazione ISO/attachments/Pasted image 20250218220733.png",
+    "Programmazione ISO/attachments/Pasted image 20250218220707.png",
+    "Programmazione ISO/attachments/Pasted image 20250218220531.png",
+    "Programmazione ISO/attachments/Pasted image 20250218220514.png",
+    "Programmazione ISO/attachments"
+  ]
+}

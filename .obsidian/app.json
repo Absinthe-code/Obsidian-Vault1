@@ -1,0 +1,17 @@
+{
+  "autoConvertHtml": true,
+  "vimMode": false,
+  "autoPairBrackets": false,
+  "autoPairMarkdown": true,
+  "attachmentFolderPath": "./attachments",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 75
+  },
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "spellcheck": true
+}
